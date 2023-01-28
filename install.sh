@@ -16,7 +16,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 
 ## awesome
 yay -S awesome rofi picom dpkg i3lock-fancy xclip ttf-roboto mate-polkit materia-gtk-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager -y
-
+git clone https://github.com/EthanSmo02/papirus.git
 
 git clone https://github.com/Esmoj19/material-awesome.git ~/.config/awesome
 
