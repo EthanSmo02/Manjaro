@@ -17,7 +17,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>! ~/.zshrc
 ## awesome
 yay -S awesome rofi picom dpkg i3lock-fancy xclip ttf-roboto mate-polkit materia-gtk-theme lxappearance flameshot pnmixer network-manager-applet xfce4-power-manager -y
 
-sudo dpkg -i "C:\Users\Ethan\Downloads\papirus-icon-theme_20200201-1mx19+1_all.deb"
+
 git clone https://github.com/Esmoj19/material-awesome.git ~/.config/awesome
 
 ## apps
